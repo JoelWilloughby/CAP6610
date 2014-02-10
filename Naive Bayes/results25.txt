@@ -1,0 +1,81 @@
+Training: 37
+   Iris-setosa: 0.24, Iris-versicolor: 0.38, Iris-virginica: 0.38,
+Bins: 3
+   (4.40, 1.10), (2.40, 0.53), (1.20, 1.83), (0.10, 0.80),
+Error Percent: 0.06
+
+===============
+
+Training: 37
+   Iris-setosa: 0.30, Iris-versicolor: 0.38, Iris-virginica: 0.32,
+Bins: 3
+   (4.30, 1.13), (2.00, 0.73), (1.10, 1.87), (0.10, 0.80),
+Error Percent: 0.08
+
+===============
+
+Training: 37
+   Iris-setosa: 0.22, Iris-versicolor: 0.35, Iris-virginica: 0.43,
+Bins: 3
+   (4.40, 1.07), (2.30, 0.53), (1.30, 1.77), (0.20, 0.77),
+Error Percent: 0.06
+
+===============
+
+Training: 37
+   Iris-setosa: 0.38, Iris-versicolor: 0.35, Iris-virginica: 0.27,
+Bins: 3
+   (4.40, 1.10), (2.20, 0.63), (1.20, 1.90), (0.10, 0.80),
+Error Percent: 0.11
+
+===============
+
+Training: 37
+   Iris-setosa: 0.22, Iris-versicolor: 0.41, Iris-virginica: 0.38,
+Bins: 3
+   (4.40, 1.10), (2.20, 0.53), (1.30, 1.80), (0.10, 0.77),
+Error Percent: 0.08
+
+===============
+
+Training: 37
+   Iris-setosa: 0.35, Iris-versicolor: 0.35, Iris-virginica: 0.30,
+Bins: 3
+   (4.60, 1.03), (2.20, 0.67), (1.00, 1.90), (0.20, 0.77),
+Error Percent: 0.06
+
+===============
+
+Training: 37
+   Iris-setosa: 0.24, Iris-versicolor: 0.43, Iris-virginica: 0.32,
+Bins: 3
+   (4.60, 1.03), (2.00, 0.63), (1.00, 1.97), (0.10, 0.80),
+Error Percent: 0.08
+
+===============
+
+Training: 37
+   Iris-setosa: 0.32, Iris-versicolor: 0.35, Iris-virginica: 0.32,
+Bins: 3
+   (4.40, 0.97), (2.30, 0.70), (1.00, 1.77), (0.10, 0.80),
+Error Percent: 0.07
+
+===============
+
+Training: 37
+   Iris-setosa: 0.22, Iris-versicolor: 0.35, Iris-virginica: 0.43,
+Bins: 3
+   (4.40, 1.10), (2.20, 0.73), (1.20, 1.90), (0.10, 0.77),
+Error Percent: 0.07
+
+===============
+
+Training: 37
+   Iris-setosa: 0.30, Iris-versicolor: 0.43, Iris-virginica: 0.27,
+Bins: 3
+   (4.40, 1.17), (2.30, 0.60), (1.30, 1.80), (0.10, 0.73),
+Error Percent: 0.12
+
+===============
+
+AVERAGE = 0.079
